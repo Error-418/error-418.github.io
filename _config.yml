@@ -32,7 +32,7 @@ github_username:  error-418
 
 
 # Build settings
-theme: jekyll-theme-cayman
+theme: jekyll-theme-minimal
 plugins:
   - jekyll-feed
 

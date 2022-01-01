@@ -24,10 +24,8 @@ description: >- # this means to ignore newlines until "baseurl:"
   Blog for Jeremiah Jackson (Error-418 on Github). Covering projects being worked on
   publicly. As well as previous writing samples and other ephemra related to technical
   writing.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
-github_username:  jekyll
+github_username:  error-418
 domain: error-418.github.io       # if you want to force HTTPS, specify the domain without the http at the start, e.g. example.com
 url: https://error-418.github.io  # the base hostname and protocol for your site, e.g. http://example.com
 
